@@ -1,0 +1,32 @@
+
+File: src/StackFunc.cpp
+Func: int StackCtor(Stack*, size_t)
+Line: 21
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 3158182461, HashBuf = 2188460037
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = 0
+StackData[2] = 0
+StackData[3] = 0
+StackData[4] = 0
+StackData[5] = 0
+StackData[6] = 0
+StackData[7] = 0
+
+File: src/StackFunc.cpp
+Func: int StackCtor(Stack*, size_t)
+Line: 28
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 3158182461, HashBuf = 782730869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
