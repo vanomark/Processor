@@ -1,9 +1,9 @@
 
 File: src/StackFunc.cpp
 Func: int StackCtor(Stack*, size_t)
-Line: 21
+Line: 22
 LCanS = 0xbaadf00d, RCanS = 0x3ca7face
-HashStk = 3158182461, HashBuf = 2188460037
+HashStk = 211659120308513, HashBuf = 4589406672470021
 LCanA = 0xcafebabe, RCanA = 0xfee1dead 
 StackSize = 0, StackCapacity = 8
 StackData[0] = 0
@@ -17,9 +17,3369 @@ StackData[7] = 0
 
 File: src/StackFunc.cpp
 Func: int StackCtor(Stack*, size_t)
-Line: 28
+Line: 29
 LCanS = 0xbaadf00d, RCanS = 0x3ca7face
-HashStk = 3158182461, HashBuf = 782730869
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172799530393389
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172799530393389
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4588851533868025
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = 0
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172799530393389
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172799530393389
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172799530393389
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4588879935214617
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172799530393389
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 0
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4590081502469865
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4589760337637369
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4589760337637369
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442172108767937357
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 1
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4590961906121417
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4590628555460341
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = 2
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4590641001534169
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442171228364285805
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 2
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4591849639532969
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4591537359229685
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = 3
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4591521405185721
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442170347716585613
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 3
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4592522722325665
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4592237835521921
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = 4
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442157774037783853
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 16
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4592145505663265
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442168735594036213
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 4
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4593403125977217
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4593146639291265
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = 5
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442150979080300109
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 25
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4593025909314817
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442167855190384405
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 5
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4594283759439201
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4594065856291317
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = 6
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442142323690166965
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 36
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4593906113662945
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442166753947239477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 6
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4595164163090753
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4594974660060661
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = 7
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442128970819370317
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 49
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4594786517314497
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165873810278229
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 7
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4596244587299593
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4596079624092009
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = 8
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442120164708448173
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 64
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4595923163443993
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442165726070733869
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 8
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4597124732665321
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4596988427861353
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = 9
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442104069170991565
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 81
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4596803566818041
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442164186965432397
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 9
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4598005136316873
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4597915203596133
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = 10
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442085977856467637
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 100
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4597684200271321
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163306561780845
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 10
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4598862636331177
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4598824007365477
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = 11
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442068882340197069
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 121
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4598564603922873
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162425914081677
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 11
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4599118481026801
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4599068125178321
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = 12
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442045082370385197
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 144
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4598755006737777
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = 1
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442163098998842501
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 12
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162218595190949
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 13
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 0, StackCapacity = 8
+StackData[0] = -666
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162218595190949
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 13
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPush(Stack*, StackElem_t)
+Line: 89
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120305539, HashBuf = 4599976928947665
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 2, StackCapacity = 8
+StackData[0] = 13
+StackData[1] = 13
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120307026, HashBuf = 18442162218595190949
+LCanA = 0xcafebabe, RCanA = 0xfee1dead 
+StackSize = 1, StackCapacity = 8
+StackData[0] = 13
+StackData[1] = -666
+StackData[2] = -666
+StackData[3] = -666
+StackData[4] = -666
+StackData[5] = -666
+StackData[6] = -666
+StackData[7] = -666
+
+File: src/StackFunc.cpp
+Func: int StackPop(Stack*, StackElem_t*)
+Line: 116
+LCanS = 0xbaadf00d, RCanS = 0x3ca7face
+HashStk = 211659120308513, HashBuf = 4021640654980725
 LCanA = 0xcafebabe, RCanA = 0xfee1dead 
 StackSize = 0, StackCapacity = 8
 StackData[0] = -666

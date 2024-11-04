@@ -6,9 +6,7 @@
 #include <string.h>
 #include <ctype.h>
 
-#define ON_DEBUG
-
-
+#define STACK_DEBUG
 
 enum STACK_ERROR {
     OK          = 0,
@@ -27,7 +25,7 @@ typedef size_t canary_t;
 
 
 struct Stack {
-    #ifdef ON_DEBUG
+    #ifdef STACK_DEBUG
     canary_t     Lcan;
     #endif
 
@@ -36,7 +34,7 @@ struct Stack {
     size_t       size;
     size_t       capacity;
 
-    #ifdef ON_DEBUG
+    #ifdef STACK_DEBUG
     hash_t       HashStk;
     hash_t       HashBuf;
     canary_t     Rcan;
@@ -54,9 +52,9 @@ int  StackRec       (Stack *Stk, double factor);
 const size_t MIN_SIZE = 8;
 const size_t MAX_SIZE = 4000000;
 
-const canary_t CANLA = 0xCAFEBABE;
-const canary_t CANRA = 0xFEE1DEAD;
-const canary_t CANLS = 0xBAADF00D;
-const canary_t CANRS = 0x3CA7FACE;
+const canary_t CANLA = 0xCAFEBABE; //LEFT CANARY FOR ARRAY
+const canary_t CANRA = 0xFEE1DEAD; //RIGHT CANARY FOR ARRAY
+const canary_t CANLS = 0xBAADF00D; //LEFT CANARY FOR STACK STRUCTURE
+const canary_t CANRS = 0x3CA7FACE; //RIGHT CANARY FOR STACK STRUCTURE
 
 #endif

@@ -6,8 +6,8 @@ hash_t gon1(Stack* Stk)
 
     hash_t hash = 228;
 
-    hash += (hash_t) Stk->Lcan + (hash_t) Stk->buffer + (hash_t) Stk->data;
-    hash += (hash_t) Stk->capacity + (hash_t) Stk->size;
+    hash += Stk->Lcan + (hash_t) Stk->buffer + (hash_t) Stk->data;
+    hash += Stk->capacity + Stk->size;
 
     hash = hash - ( /* в стеке хэш считать не бросим, */ 1488 ) * Stk->size;  
 
@@ -20,8 +20,8 @@ hash_t djb2(const void* data, size_t size)
 
     hash_t hash = 5381;
     for (size_t i = 0; i < size; i++) {
-        hash += *(StackElem_t *) (data + i*sizeof(StackElem_t));
-        hash = hash * 31 ^ (int) *(StackElem_t *) (data + i*sizeof(StackElem_t));
+        hash += (hash_t) *(StackElem_t *) ((size_t) data + i*sizeof(StackElem_t));
+        hash = hash * 31 ^ (hash_t) *(StackElem_t *) ((size_t) data + i*sizeof(StackElem_t));
     }
 
     return hash;

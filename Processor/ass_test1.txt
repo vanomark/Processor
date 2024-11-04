@@ -1,0 +1,17 @@
+push 0
+pop ax
+next: 
+    pushr ax
+    pushr ax
+    mul
+    out
+    pushr ax
+    push 1
+    add
+    pop ax
+    pushr ax
+    push 13
+jb skip
+hlt
+skip:
+    jmp next
