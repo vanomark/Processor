@@ -1,0 +1,22 @@
+in
+pop ax
+pushr ax
+pop bx
+next: 
+    pushr bx
+    pushr ax
+    push 1
+    sub
+    pop ax
+    pushr ax
+    mul 
+    pop bx
+
+    pushr ax
+    push 2
+ja skip
+pushr bx
+out
+hlt
+skip:
+    jmp next
