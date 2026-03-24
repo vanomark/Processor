@@ -72,5 +72,6 @@ const u_int32_t  VERSION    = 4;
 const u_int32_t  SIGNATURE  = 0x3433524F;
 
 const char* OUTPUT_FILE = "result.txt";
+const char* DEFAULT_PROGFILE = "program.bin";
 
 #endif /* PROCESSORH */

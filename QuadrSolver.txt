@@ -7,14 +7,18 @@ pop cx
 push 0
 pushr ax
 je a_zero
+
 push 0
 pushr bx
 je b_zero
+
 push 0
 pushr cx
 je c_zero
+
 pushr bx
-sqrt
+pushr bx
+mul
 push -4
 pushr ax
 pushr cx
@@ -25,9 +29,11 @@ pop dx
 pushr dx
 push 0
 jb no_roots
+
 pushr dx
 push 0
 je eq_roots
+
 pushr dx
 sqrt
 pop dx
@@ -37,6 +43,8 @@ pushr bx
 mul
 add
 push 2
+pushr ax
+mul
 div
 out
 pushr dx
@@ -47,9 +55,12 @@ pushr bx
 mul
 add
 push 2
+pushr ax
+mul
 div
 out
 hlt
+
 c_zero:
 push 0
 out
@@ -60,10 +71,12 @@ pushr ax
 div
 out
 hlt
+
 b_zero:
 push 0
 pushr cx
 je b_c_zero
+
 push -1
 pushr cx
 mul
@@ -73,6 +86,7 @@ pop dx
 pushr dx
 push 0
 jb no_roots
+
 pushr dx
 sqrt
 pop dx
@@ -83,14 +97,17 @@ push -1
 mul
 out
 hlt
+
 no_roots:
-push 0
+push -666
 out
 hlt
+
 b_c_zero:
 push 0
 out
 hlt
+
 a_zero:
 pushr bx
 push 0
@@ -102,27 +119,27 @@ pushr bx
 div
 out
 hlt
+
 a_b_zero:
 push 0
 pushr cx
 je a_b_c_zero
-push 0
+push -1488
 out
 hlt
+
 a_b_c_zero:
-push 0
+push -99999
 out
 hlt
+
 eq_roots:
-pushr dx
-sqrt
-pop dx
-pushr dx
 push -1
 pushr bx
 mul
-add
 push 2
+pushr ax
+mul
 div
 out
 hlt

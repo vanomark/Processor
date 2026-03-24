@@ -15,7 +15,7 @@ int main(const int argc, const char* argv[])
         SPUctor(&Proc, argv[1]); 
     } else {
         fprintf(stderr, "WARNING: Codefile haven't given, so default file will be used\n");
-        SPUctor(&Proc, "PROGRAM_CODE.bin"); 
+        SPUctor(&Proc, DEFAULT_PROGFILE); 
     }
 
     Process(&Proc); 
@@ -172,6 +172,7 @@ int Process(SPU *Proc)
                 assert(result_file);
                 
                 StackPop(&Proc->Stk, &out_num);
+                fprintf(stdout,      "%d\n", out_num);
                 fprintf(result_file, "%d\n", out_num);
                 Proc->ip++;
                 
@@ -182,6 +183,7 @@ int Process(SPU *Proc)
             case IN:
             {
                 int input_num = 0;
+                printf("Enter value: ");
                 scanf("%d", &input_num);
                 StackPush(&Proc->Stk, input_num);
                 Proc->ip++;

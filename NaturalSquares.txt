@@ -1,3 +1,5 @@
+in
+pop bx
 push 1
 pop ax
 next: 
@@ -10,7 +12,7 @@ next:
     add
     pop ax
     pushr ax
-    push 13
+    pushr bx
 jb skip
 hlt
 skip:

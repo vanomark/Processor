@@ -11,7 +11,7 @@
 This project implements a **virtual stack machine** with its own bytecode format and assembly-like language. It consists of two main components:
 
 1. **Processor** (`Processor.cpp`) – A virtual CPU that executes bytecode from binary files
-2. **Assembler** (`ASSEMBLER.cpp`) – A tool that converts human-readable assembly code into executable bytecode
+2. **Assembler** (`Assembler.cpp`) – A tool that converts human-readable assembly code into executable bytecode
 
 ### 🎯 Key Features
 
@@ -55,7 +55,7 @@ make clean
 
 ```bash
 # Compile Assembler
-g++ src/ASSEMBLER.cpp -std=c++17 -O2 -Wall -Wextra -o ASSEMBLER.out
+g++ src/Assembler.cpp -std=c++17 -O2 -Wall -Wextra -o Assembler.out
 
 # Compile Processor
 g++ src/Hash.cpp src/Processor.cpp src/StackCheck.cpp src/StackFunc.cpp \
@@ -66,11 +66,11 @@ g++ src/Hash.cpp src/Processor.cpp src/StackCheck.cpp src/StackFunc.cpp \
 
 ```bash
 # 1. Assemble: Convert .txt assembly to bytecode .bin
-./ASSEMBLER.out [input.asm]           # Default: ASS_test_1.txt
+./Assembler.out [input.asm]           # Default: Factorial.txt
 # Output: PROGRAM_CODE.bin
 
 # 2. Execute: Run the bytecode on the virtual processor
-./Processor.out [PROGRAM_CODE.bin]    # Default: PROGRAM_CODE.bin
+./Processor.out [program.bin]         # Default: program.bin
 # Output: result.txt
 ```
 
@@ -143,35 +143,18 @@ Debug features:
 
 ---
 
-## 📦 Bytecode Format
-
-The compiled `.bin` files use a custom header:
-
-```c
-struct Header {
-    uint32_t signature;  // Magic number for file validation
-    uint32_t version;    // Bytecode version
-    uint32_t size;       // Number of instructions
-    uint32_t reserve;    // Reserved for future use
-};
-// Followed by: int code[size] – the actual instructions
-```
-
----
 
 ## 🧪 Testing
 
 Example test files included:
-- `ASS_test_1.txt` – Basic arithmetic operations
-- `ASS_test_2.txt` – Control flow with jumps
-- `ASS_test_3.txt` – Register operations
-- `QuadrSolver.txt` – Mathematical computation example
+- `Factorial.txt` – Print factorial of inputed value
+- `NaturalSquares.txt` – Print squares from 1 to square of inputed value
+- `QuadrSolver.txt` – Solve a quadratic equation
 
 Run a test:
 ```bash
-./ASSEMBLER.out ASS_test_1.txt
-./Processor.out PROGRAM_CODE.bin
-cat result.txt  # View output
+./ASSEMBLER.out example.txt
+./Processor.out program.bin
 ```
 
 ---

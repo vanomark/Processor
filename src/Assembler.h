@@ -89,7 +89,7 @@ const int   POISON_VALUE = -1;
 const char* POISON_NAME  = "DEDLOH";
 
 const char* DEFAULT_ASMFILE = "Factorial.txt";
-const char* DEFAULT_OUTFILE = "PROGRAM_CODE.bin";
+const char* DEFAULT_OUTFILE = "program.bin";
 
 int    Assemble          (const char *asm_file, ASSEMBLER *ASM);
 int    Get_reg_num       (const char* xx);
