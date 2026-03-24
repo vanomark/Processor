@@ -88,7 +88,7 @@ struct ASSEMBLER {
 const int   POISON_VALUE = -1;
 const char* POISON_NAME  = "DEDLOH";
 
-const char* DEFAULT_ASMFILE = "ASS_test_2.txt";
+const char* DEFAULT_ASMFILE = "Factorial.txt";
 const char* DEFAULT_OUTFILE = "PROGRAM_CODE.bin";
 
 int    Assemble          (const char *asm_file, ASSEMBLER *ASM);
